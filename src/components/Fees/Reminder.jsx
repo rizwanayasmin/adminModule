@@ -100,8 +100,12 @@ const Reminder =(props)=>{
                   <TableCell align="center">
                
                 <FontAwesomeIcon
-                  icon={faPlus}
+                  icon={faPencilAlt}
                   style={{ fontSize: 15, color: "#fd868c " }}
+                />
+                 <FontAwesomeIcon
+                  icon={faTrashAlt}
+                  style={{ fontSize: 15, color: "#fd868c ",marginLeft:"6px" }}
                 />
              
                 
