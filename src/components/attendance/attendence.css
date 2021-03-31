@@ -1,0 +1,64 @@
+.createmodel_attendence_div{
+    margin: 12px;
+}
+.attendence_card_title{
+    padding: 12px;
+}
+ .card-title{
+color: #c3272b !important;
+}
+.create_attendence_search_position{
+    position: absolute;
+    top: 1px;
+    right: 12px !important;
+    z-index: 2;
+    display: block;
+    width: 2.5rem;
+    height: 2.5rem;
+    line-height: 2.5rem;
+    text-align: center;
+}
+.progress_bar_row{
+   margin-top: 24px;
+}
+.editclose_div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 2%;
+}
+.edit_attendence_label{
+    font-size: 16px;
+    font-weight: 600;
+    color: #c3272b;
+}
+.row_page{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.row_page .css-yk16xz-control{
+width: 75px !important;
+}
+.row_label{
+    margin-right: 12px;
+}
+.collapse_icon_div_lesson{
+    display: flex;
+ 
+}
+.collapse_icon_div_lesson_main{
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: whitesmoke;
+    border-radius: 4px;
+    padding: 12px;
+}
+.collapse_icon_div_lesson_main_label{
+    font-size: 16px;
+    color: #c3272b;
+}
+.collapse_icon_div_lesson_main_label_content{
+    font-size: 16px;
+    margin-left: 12px;
+}

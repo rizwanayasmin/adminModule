@@ -1,0 +1,116 @@
+.createmodel_attendence_div{
+    margin: 12px;
+}
+.attendence_card_title{
+    padding: 12px;
+}
+ .card-title{
+color: #c3272b !important;
+}
+.create_attendence_search_position{
+    position: absolute;
+    top: 1px;
+    right: 12px !important;
+    z-index: 2;
+    display: block;
+    width: 2.5rem;
+    height: 2.5rem;
+    line-height: 2.5rem;
+    text-align: center;
+}
+.create_attendence_parent{
+   
+}
+.editclose_div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 2%;
+}
+.edit_attendence_label{
+    font-size: 16px;
+    font-weight: 600;
+    color: #c3272b;
+}
+
+
+/* modal */
+.btn_div{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+.btn_div_cancel{
+    margin-right: 12px;
+}
+ .modal-title{
+    color: #c3272b !important;
+    font-weight: 600 !important;
+}
+.expericence_div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+/* designation css */
+
+/* .designation_btn_div_cancel{
+    mar
+} */
+
+
+/* employess css */
+.create_employee_btn_div{
+    display: flex;
+    /* align-items: flex-end;
+    justify-content: flex-end; */
+
+    /* margin-top: 12px; */
+}
+.create_employee_btn_div .btn-outline-primary:hover{
+    background-color: rgb(252, 241, 241) !important;
+font-weight: 600;}
+.settings_department_div{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    margin-top: 30px;
+}
+.settings_department_div_cancel{
+    margin-right: 12px;
+}
+.survey_create_table_row_div_change{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.card:hover{
+    border-left: 0px;
+}
+.row_page{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.row_page .css-yk16xz-control{
+width: 75px !important;
+}
+.row_label{
+    margin-right: 12px;
+}
+.view_survey_Card {
+    padding: 12px ;
+}
+.testing{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.testing_div{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.create_label{
+    font-size: 16px;
+}

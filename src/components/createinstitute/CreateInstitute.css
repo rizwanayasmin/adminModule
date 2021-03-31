@@ -1,0 +1,95 @@
+.table_container_institute{
+    margin: 2%;
+}
+.table_head_title .MuiTableHead-root{
+    margin: 2% ;
+    color: #c3272b ;
+    font-weight: 600 ;
+}
+.table_header_row{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    margin-right: 26px;
+}
+.row_page{
+    margin-right: 16px;
+}
+.table_header_{
+    display: flex;
+    /* align-items: flex-end;
+    justify-content: flex-end;
+    margin-right: 26px; */
+}
+.social_media{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.facebook .MuiSvgIcon-root{
+    font-size: 30px !important;
+    color: #1877f2;
+}
+.twitter .MuiSvgIcon-root{
+    font-size: 30px !important;
+    color: #1DA1F2;
+}
+.linkedin .MuiSvgIcon-root{
+    font-size: 30px !important;
+    color: #0073b1;
+}
+.instagram .MuiSvgIcon-root{
+    font-size: 30px !important;
+    color: #7e2581;
+    /* color:  linear-gradient(244deg, #8a3ab9 50%, #bc2a8d 50%) 0% 0% no-repeat padding-box; */
+}
+.accordion_div{
+    /* margin-left: 2%; */
+    margin-right: 2%;
+}
+.institue_Card .card{
+    /* box-shadow: 0px 4px 15px 0px #888888 !important; */
+}
+.academic_setup{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.adminUser_setup{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.academic_card_header_div{
+   
+    margin-left: 12px;
+    margin-right: 12px;
+}
+.create_institute_filter_head_div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.add_institute_div{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+.row_page{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.row_page .css-yk16xz-control{
+width: 75px !important;
+}
+.row_label{
+    margin-right: 12px;
+}
+.header{
+    display: flex;
+}
+.position_search{
+    position: relative !important;
+    top: 30% !important;
+}

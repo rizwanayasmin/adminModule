@@ -1,0 +1,25 @@
+.employee_profile_card_div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.card_main_header_div{
+    padding: 12px;
+    margin-bottom: 10%;
+}
+.card_col_one{
+
+}
+.card_col_lable_title{
+    font-size: 16px;
+    margin-bottom: 12px;
+    color: #c3272b ;
+}
+.card_col_lable_answer{
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+/* .card_col_lable_answer_experience{
+    font-size: 14px;
+    margin-bottom: 15px;
+} */

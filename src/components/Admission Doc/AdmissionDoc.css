@@ -1,0 +1,52 @@
+.admin_doc_admin{
+    align-items: center;
+    display: flex;
+    padding: 12px;
+}
+.employee_search_icon{
+    position: relative;
+    top: 20px;
+    /* margin-left: 12px; */
+}
+.employee_search_icon_title{
+    color: #fd868c;
+    font-size: 16px;
+    font-weight: 600;
+}
+.row_page{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.row_page .css-yk16xz-control{
+width: 75px !important;
+}
+.row_label{
+    margin-right: 12px;
+}
+.collapse_icon_div_lesson_icon{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+ 
+}
+.collapse_icon_div_lesson_main{
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: whitesmoke;
+    border-radius: 4px;
+    padding: 12px;
+}
+.collapse_icon_div_lesson_main_label{
+    font-size: 16px;
+    color: #c3272b;
+}
+.collapse_icon_div_lesson_main_label_content{
+    font-size: 16px;
+    margin-left: 12px;
+}
+.collapse_icon_div_table{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}

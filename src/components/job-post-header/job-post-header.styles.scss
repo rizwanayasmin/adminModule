@@ -1,0 +1,40 @@
+// Job post header
+
+.jobPostHeaderHeading {
+  padding: 20px 30px;
+  background-color: rgb(255, 189, 196);
+  border-radius: 5px;
+  h1 {
+    color: white;
+    text-transform: uppercase;
+    color: rgb(8, 8, 121);
+    font-size: 1.2rem;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+.jobPostHeader {
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+  background-color: rgb(255, 189, 196);
+
+  .body,
+  .head {
+    // padding: 30px 0 0;
+    .cardHeading {
+      color: rgb(199, 5, 38);
+    }
+    .title {
+      font-weight: bolder;
+    }
+    h1 {
+      font-size: 1rem;
+    }
+  }
+  hr {
+    padding: 0;
+    margin: 0;
+  }
+}

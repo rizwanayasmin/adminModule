@@ -1,0 +1,13 @@
+.designation_btn_div{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+.designation_btn_div_cancel{
+    margin-right: 12px;
+}
+.experience_header_div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

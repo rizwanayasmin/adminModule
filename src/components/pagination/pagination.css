@@ -1,0 +1,63 @@
+.parent_pagination_header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+}
+.parent_pagination_header .MuiInput-root{
+    /* position: relative;
+    top: -15px; */
+    /* background-color: whitesmoke; */
+}
+.parent_pagination_row_header{
+    margin-right: 10px;
+    /* display: flex;
+    align-items: flex-end;
+    justify-content: flex-end; */
+}
+.page-link{
+    color: grey;
+}
+.page-link:hover{
+    color: #c3272b;
+}
+.page-item .page-link:hover{
+    background-color: #fe9a8b !important;
+    border-color: #fe9a8b !important;
+    border-radius: 25px !important;
+    color: white !important;
+}
+.page-item.active .page-link{
+    background-color: #fe9a8b;
+    border-color: #fe9a8b;
+    border-radius: 20px !important;
+  
+}
+.page-item .page-link{
+    background-color: white !important;
+    border-color: white;
+    /* border-radius: 25px; */
+    color: white;
+}
+.page-item:first-child .page-link{
+    border-top-left-radius: 1.25rem;
+    border-bottom-left-radius: 1.25rem;
+  
+}
+.page-item:last-child .page-link{
+  
+    border-top-right-radius: 1.25rem;
+    border-bottom-right-radius: 1.25rem;
+}
+@media only screen  and (max-width: 750px) {
+    .parent_pagination_header {
+        position: relative;
+        top: 30px;
+    
+    }
+}
+.pagination_row{
+    color: grey;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}

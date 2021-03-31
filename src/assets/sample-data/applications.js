@@ -1,0 +1,106 @@
+const APPLICATIONS = [
+  {
+    id: 1,
+    name: "Aravind",
+    email: "aravind@gmail.com",
+    mobileNo: "9810100101",
+    appliedDate: "20/11/2020",
+    designation: "MATH_G-I",
+    doj: "22/11/2020",
+    institute: "Everwin Group of Schools",
+    branch: "Kolathur",
+    givenCtc: "3,00,000",
+    experienceType: "5",
+    expectedCtc: "3.5LPA",
+    education: "BSc. Mathematics",
+    address: {
+      city: "Chennai",
+      state: "Tamilnadu",
+      address: "No.5 Shanmugam Street, Ramapuram",
+    },
+    resumeLocation: "/aravind@gmail.com/",
+    // Interview stage usage
+    resumeShortlisted: true,
+    interviewProcessId: "TEA-GRADE-II",
+    hired: false,
+    interviewProcess: [
+      {
+        id: "1",
+        name: "Round 1",
+        roundStatus: -1,
+        avgMark: 75,
+        duration: 60,
+        description: "Written test",
+        totalMark: 100,
+        cutOff: 70,
+        interviewDate: "22/11/2020",
+        interviewers: [
+          {
+            employeeId: "EMP001",
+            employeeName: "Aravind",
+            feedback: "Very good performance",
+            score: 75,
+          },
+          {
+            employeeId: "EMP002",
+            employeeName: "Bharath",
+            feedback: "Overall good performance",
+            score: 75,
+          },
+        ],
+      },
+      {
+        id: "2",
+        name: "Round 2",
+        roundStatus: 1,
+        avgMark: 75,
+        duration: 60,
+        description: "Written test",
+        totalMark: 100,
+        cutOff: 70,
+        interviewDate: "22/11/2020",
+        interviewers: [
+          {
+            employeeId: "EMP001",
+            employeeName: "Aravind",
+            feedback: "Very good performance",
+            score: 75,
+          },
+          {
+            employeeId: "EMP002",
+            employeeName: "Bharath",
+            feedback: "Overall good performance",
+            score: 75,
+          },
+        ],
+      },
+      {
+        id: "3",
+        name: "Round 3",
+        roundStatus: 1,
+        avgMark: 75,
+        duration: 60,
+        description: "Demo class",
+        totalMark: 100,
+        cutOff: 70,
+        interviewDate: "22/11/2020",
+        interviewers: [
+          {
+            employeeId: "EMP001",
+            employeeName: "Aravind",
+            feedback: "Very good performance",
+            score: 75,
+          },
+          {
+            employeeId: "EMP002",
+            employeeName: "Bharath",
+            feedback: "Overall good performance",
+            score: 75,
+          },
+        ],
+      },
+    ],
+  },
+];
+
+export default APPLICATIONS;

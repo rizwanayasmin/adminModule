@@ -1,0 +1,176 @@
+.container-fluid .MuiCard-root{
+    box-shadow: 1px 2px 20px lightgray;
+}
+.chat_grid_one{
+    background-color: white;
+    height: 678px;
+}
+.chat_grid_two{
+    height: 678px;
+}
+.chat_suggestion_search_div{
+    display: flex;
+    padding-top: 12px;
+    width: 100%;
+}
+.chat_suggestion_search_div .ant-select{
+    width: 100% !important;
+}
+.chat_suggestion_search_div .ant-select-selector{
+    margin-left: 8px;
+    height: 35px !important;
+    border-radius: 20px !important;
+ 
+}
+.chat_suggestion_search_div .MuiSvgIcon-root{
+    position: relative;
+    top: 6px;
+    right: 20px;
+    color: gainsboro;
+}
+.chat_suggestion_divider{
+    margin-top: 24px;
+}
+
+.chat_suggestion_section_div{
+    box-shadow: 1px 2px 20px whitesmoke;
+    margin: 12px;
+}
+.chat_suggestion_section_div:hover{
+    background-color:  whitesmoke;
+}
+
+.chat_suggestion_issue_header_title{
+color: #c3272b;
+margin: 12px;
+font-weight: 600;
+
+}
+.chat_suggestion_sub_grid_one{
+    margin: 12px;
+}
+.chat_suggestion_sub_grid_two_body{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.chat_suggestion_sub_grid_two_body_ticket{
+    color: #c3272b;
+    margin-bottom: 0px;
+}
+.chat_suggestion_sub_grid_two_body_date{
+    color: grey;
+}
+.chat_suggestion_sub_grid_two_body_subject{
+    margin-bottom: 0px;
+    font-weight: 600;
+}
+.chat_suggestion_sub_grid_two_body_description{
+    color: #b9b9c3;
+}
+.chat_suggestion_grid_two_header_card_div .MuiCard-root{
+    height: 72px;
+}
+.chat_suggestion_grid_two_header_card_div .MuiPaper-rounded{
+    border-radius: 0px;
+}
+.chat_suggestion_grid_two_header_div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 16px;
+}
+.chat_suggestion_grid_two_header_subject_div{
+    display: flex;
+}
+.chat_suggestion_grid_two_header_title{
+    position: relative;
+    top: 8px;
+    left: 8px;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.chat_grid_search_avatar{
+    display: flex;
+    margin: 12px;
+}
+.avatar_chat{
+    position: relative;
+    top: 6px;
+}
+.chat_section_sender{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    margin: 12px;
+}
+.chat_section_receiver{
+    display: flex;
+    margin: 12px;
+}
+.chat_section_sender_label{
+    font-size: 16px;
+    background-color: violet;
+    text-align: center;
+    border-radius: 4px;
+    margin: 6;
+    padding: 6px;
+    color: white;
+    margin-right: 12px;
+    position: relative;
+    top: 10px;
+}
+.chat_section_receiver_label{
+    font-size: 16px;
+    background-color: white;
+    text-align: center;
+    border-radius: 4px;
+    margin: 6;
+    padding: 6px;
+    margin-left: 12px;
+    
+}
+.chat_footer{
+    position: relative;
+    top: 45%;
+}
+.chat_footer_card_div .MuiCard-root{
+    height: 72px;
+}
+.chat_footer_alignment{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    top: 20px;
+   
+}
+.chat_footer_btn_div .MuiButton-root{
+    background-color: royalblue !important;
+    border-color:royalblue !important ;
+    color: white !important;
+}
+.chat_footer_div{
+    width: 90%;
+}
+.chat_suggestion_issue_main_div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.chat_suggestion_btn_header_div{
+    margin-right: 12px ;
+
+}
+.chat_suggestion_btn_header_div .MuiButton-root{
+
+border-color: #c3272b !important;
+color: #c3272b !important;
+}
+.chat_suggestion_btn_header_div .MuiButton-root:hover{
+
+   
+    background-color: #fe9a8b !important;
+    color: white !important;
+    }

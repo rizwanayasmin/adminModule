@@ -1,0 +1,11 @@
+.align_btn{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.align_btn_cancel{
+    margin-right: 12px;
+}
+.create_employee_btn_div .btn-outline-primary:hover{
+    background-color: rgb(252, 241, 241) !important;
+font-weight: 600;}

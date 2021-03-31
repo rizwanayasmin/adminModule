@@ -1,0 +1,53 @@
+.parent_add_leave_header_div{
+    position: relative;
+    top: -30%;
+    margin: 25%;
+    padding: 5px;
+}
+.parent_add_leave_head_div{
+    margin: 2%;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.parent_add_leave_head_title{
+    font-size: 24px;
+    color: #c3272b;
+
+}
+.parent_add_leave_section_div{
+    margin: 2%;
+}
+.parent_add_leave_sub_section .MuiFormControl-root{
+    width: 95%;
+    margin-bottom: 10px;
+}
+.parent_add_leave_section_date .MuiFormControl-root{
+    width: 90%;
+}
+.parent_add_leave_sub_section_label{
+    font-size: 16px;
+    color: gray;
+
+}
+.parent_add_leave_sub_section_label_div{
+    margin-bottom: 5px;
+
+}
+.parent_add_leave_footer_div{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.parent_add_leave_footer_btn{
+    background-color: #55ce63 !important;
+    color: white !important;
+}
+.parent_add_leave_radio_div{
+    margin-left: 24px;
+}
+.parent_add_leave_radio_title{
+    font-size: 20px;
+}

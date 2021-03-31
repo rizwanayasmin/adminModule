@@ -1,0 +1,19 @@
+/* .create_payroll_earning_btn_div{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+} */
+.payroll_deduction_div{
+    margin-top: 20px;
+}
+.earn_config_add_btn_div{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+.earn_config_add_btn_div_cancel{
+    margin-right: 12px;
+}
+.create_payroll_btn .btn-outline-primary:hover{
+    background-color: rgb(252, 241, 241) !important;
+font-weight: 600;}

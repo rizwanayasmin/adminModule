@@ -1,0 +1,164 @@
+.table_container_institute{
+    margin: 2%;
+}
+.table_head_title .MuiTableHead-root{
+    margin: 2% ;
+    color: #c3272b ;
+    font-weight: 600 ;
+}
+.table_header_row{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    margin-right: 26px;
+}
+.row_page{
+    margin-right: 16px;
+}
+.table_header_{
+    display: flex;
+    /* align-items: flex-end;
+    justify-content: flex-end;
+    margin-right: 26px; */
+}
+.social_media{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.facebook .MuiSvgIcon-root{
+    font-size: 30px !important;
+    color: #1877f2;
+}
+.twitter .MuiSvgIcon-root{
+    font-size: 30px !important;
+    color: #1DA1F2;
+}
+.linkedin .MuiSvgIcon-root{
+    font-size: 30px !important;
+    color: #0073b1;
+}
+.instagram .MuiSvgIcon-root{
+    font-size: 30px !important;
+    color: #7e2581;
+    /* color:  linear-gradient(244deg, #8a3ab9 50%, #bc2a8d 50%) 0% 0% no-repeat padding-box; */
+}
+.accordion_div{
+    /* margin-left: 2%; */
+    margin-right: 2%;
+}
+.institue_Card .card{
+    /* box-shadow: 0px 4px 15px 0px #888888 !important; */
+}
+.academic_setup{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.adminUser_setup{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.academic_card_header_div{
+   
+    margin-left: 12px;
+    margin-right: 12px;
+}
+.create_institute_filter_head_div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.add_institute_div{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+.table_icon_align{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.dialog_card_head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dialog_card_leaveRequest .card{
+    width: 400px !important;
+    height: 300px !important;
+    margin-bottom: 0px !important;
+}
+.dialog_card_leaveRequest_sub_main{
+    margin: 15%;
+}
+.dialog_card_text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 12px;
+}
+.dialog_card_btn_div{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 12px;
+
+}
+.dialog_card_head_two{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* width: 100%; */
+    height: 40px;
+    width: 40px;
+    background-color: dodgerblue;
+    border-radius: 20px;
+    margin-left: 40%;
+}
+.dialog_card_head_two_label{
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+}
+.dialog_card_btn_head_two_submit .btn-secondary{
+    color: white !important;
+    background-color: #3085d6 !important;
+
+}
+.dialog_card_btn_div_head_two{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 12px;
+
+}
+.dialog_card_text_head_two{
+    font-size: 18px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+.row_page{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.row_page .css-yk16xz-control{
+width: 75px !important;
+}
+.row_label{
+    margin-right: 12px;
+}
+.exam_type_div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.select_insti_exam_type .css-yk16xz-control{
+    width: 300px !important;
+}

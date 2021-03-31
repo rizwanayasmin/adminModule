@@ -1,0 +1,96 @@
+{
+  "name": "reactstrap-sidebare",
+  "proxy": "http://127.0.0.1:5000",
+  "version": "0.1.0",
+  "description": "A Simple SideBar Navigation written in React",
+  "author": "Boukrouh Bilal",
+  "private": true,
+  "dependencies": {
+    "@date-io/date-fns": "^2.10.8",
+    "@fortawesome/fontawesome-pro": "^5.15.1",
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-brands-svg-icons": "^5.15.1",
+    "@fortawesome/free-regular-svg-icons": "^5.15.1",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "@fortawesome/pro-duotone-svg-icons": "^5.15.1",
+    "@fortawesome/pro-light-svg-icons": "^5.15.1",
+    "@fortawesome/pro-regular-svg-icons": "^5.15.1",
+    "@fortawesome/pro-solid-svg-icons": "^5.15.1",
+    "@fortawesome/react-fontawesome": "^0.1.11",
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/pickers": "^3.3.10",
+    "ag-grid-community": "^22.1.1",
+    "ag-grid-react": "^22.1.1",
+    "antd": "^4.14.0",
+    "apexcharts": "^3.15.3",
+    "axios": "^0.21.0",
+    "bootstrap": "^4.4.1",
+    "chart.js": "^2.9.3",
+    "classnames": "^2.2.6",
+    "date-fns": "^2.19.0",
+    "file-saver": "^2.0.5",
+    "html-pdf": "^2.2.0",
+    "material-ui-chip-input": "^2.0.0-beta.2",
+    "node-sass": "^4.0.0",
+    "prismjs": "^1.22.0",
+    "react": "^16.13.0",
+    "react-apexcharts": "^1.3.7",
+    "react-beautiful-dnd": "^13.0.0",
+    "react-bootstrap-table-next": "^4.0.3",
+    "react-calendar": "^3.3.1",
+    "react-chartjs-2": "^2.10.0",
+    "react-data-table-component": "^6.2.3",
+    "react-dom": "^16.8.6",
+    "react-feather": "^2.0.9",
+    "react-horizontal-gauge": "^0.1.2",
+    "react-horizontal-stacked-bar-chart": "^8.15.2",
+    "react-list-drag-and-drop": "^0.9.2",
+    "react-paginate": "^6.5.0",
+    "react-perfect-scrollbar": "^1.5.5",
+    "react-range": "^1.8.2",
+    "react-redux": "^7.1.3",
+    "react-ripples": "^2.2.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.0.1",
+    "react-select": "^3.0.8",
+    "react-star-ratings": "^2.3.0",
+    "react-toastify": "^7.0.3",
+    "reactstrap": "^6.4.0",
+    "redux": "^4.0.5",
+    "redux-saga": "^1.1.3",
+    "redux-thunk": "^2.3.0",
+    "reselect": "^4.0.0",
+    "styled-components": "^5.0.1",
+    "webfontloader": "^1.6.28",
+    "xlsx": "^0.16.9"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "husky": "^4.2.5",
+    "prettier": "2.0.5",
+    "pretty-quick": "^2.0.1"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
+  }
+}

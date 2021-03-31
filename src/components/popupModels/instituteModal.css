@@ -1,0 +1,44 @@
+.btn_div{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+.btn_div_cancel{
+    margin-right: 12px;
+}
+ .modal-title{
+    color: #c3272b !important;
+    font-weight: 600 !important;
+}
+.expericence_div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+/* designation css */
+
+/* .designation_btn_div_cancel{
+    mar
+} */
+
+
+/* employess css */
+.create_employee_btn_div{
+    display: flex;
+    /* align-items: flex-end;
+    justify-content: flex-end; */
+
+    /* margin-top: 12px; */
+}
+.create_employee_btn_div .btn-outline-primary:hover{
+    background-color: rgb(252, 241, 241) !important;
+font-weight: 600;}
+.settings_department_div{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    margin-top: 30px;
+}
+.settings_department_div_cancel{
+    margin-right: 12px;
+}
